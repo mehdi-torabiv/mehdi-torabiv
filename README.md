@@ -1,19 +1,30 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mehdi+Torabi;Full-Stack+Engineer;React+%7C+Next.js+%7C+Nest.js;6%2B+Years+Experience;Let's+Build+Something+Epic!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdi-torabiv&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F5FF?style=flat-square" alt="Focus" />
-  <img src="https.shields.io/badge/Location-Portugal%20🇵🇹-00F5FF?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Available%20For-Hire-00F5FF?style=flat-square" alt="Status" />
-</p>
+# 👋 Hi, I'm Mehdi Torabi
 
-<p align="center">
-  <a href="mailto:mehditorabiv@gmail.com"><img src="https://img.shields.io/badge/Email-mehditorabiv@gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mehdi-torabi"><img src="https://img.shields.io/badge/LinkedIn-Mehdi--Torabi-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+351924954694"><img src="https://img.shields.io/badge/Phone-+351%20924%20954%20694-00F5FF?style=for-the-badge&logo=phone&logoColor=white" /></a>
-</p>
+### Full-Stack JavaScript Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=60&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Expert;Nest.js+%E2%80%A2+Node.js+Backend+Developer;6%2B+Years+of+Experience;Web3+%E2%80%A2+SaaS+%E2%80%A2+Trading+Platforms;Building+Scalable+Applications" alt="Typing SVG" />
+
+<br/>
+
+📍 Portugal • 💼 Available for Hire • 🌐 Remote Worldwide
+
+<br/>
+
+<a href="mailto:mehditorabiv@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-mehditorabiv%40gmail.com-blue?style=flat-square&color=5865F2" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/mehdi-torabi">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Mehdi_Torabi-blue?style=flat-square&color=0A66C2" alt="LinkedIn" />
+</a>
+<a href="tel:+351924954694">
+  <img src="https://img.shields.io/badge/📱_Phone-+351_924_954_694-blue?style=flat-square&color=25D366" alt="Phone" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mehdi-torabiv&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -140,12 +151,12 @@ console.log(me.skills);
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-torabiv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&ring_color=00F5FF" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-torabiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-torabiv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&ring_color=58A6FF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-torabiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&langs_count=10" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-torabiv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=ffffff&dates=70a5fd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-torabiv&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=ffffff&dates=70a5fd" />
 </p>
 
 <p align="center">
@@ -342,13 +353,13 @@ impact:
 
 <p align="center">
   <a href="mailto:mehditorabiv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mehdi-torabi">
-    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mehdi-torabiv">
-    <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -405,6 +416,6 @@ impact:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
 </p>
 
