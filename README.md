@@ -4,7 +4,7 @@
 
 ### Full-Stack JavaScript Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=60&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Expert;Nest.js+%E2%80%A2+Node.js+Backend+Developer;6%2B+Years+of+Experience;Web3+%E2%80%A2+SaaS+%E2%80%A2+Trading+Platforms;Building+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=60&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Expert;Nest.js+%E2%80%A2+Node.js+Backend+Developer;5%2B+Years+of+Experience;Web3+%E2%80%A2+SaaS+%E2%80%A2+Trading+Platforms;Building+Scalable+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,7 @@ class MehdiTorabi {
     this.name = "Mehdi Torabi";
     this.role = "Senior Frontend Engineer";
     this.location = "Portugal 🇵🇹";
-    this.experience = "6+ years";
+    this.experience = "5+ years";
     this.currentProjects = [
       "fanfunded.io - Legacy migration to Next.js",
       "playerprofit.com - Platform fork with new UI",
@@ -319,7 +319,7 @@ Educational platforms and advertising dashboards
 
 ```yaml
 expertise:
-  full_stack: "6+ years of hands-on experience"
+  full_stack: "5+ years of hands-on experience"
   architecture: "Scalable system design & technical strategy"
   migration: "Legacy modernization expert (PHP/Vue → Next.js)"
   domains: ["Web3", "SaaS", "iGaming", "Trading Platforms"]
